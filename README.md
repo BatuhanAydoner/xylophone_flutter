@@ -1,6 +1,19 @@
 # Xylophone Flutter
 
-A new Flutter application.
+<img src="https://github.com/BatuhanAydonerDev/xylophone_flutter/blob/master/xylophone_flutter_image.png?raw=true" alt="Xylophone Flutter" width="300" height="500"/>
+
+## My Goal
+In this tutorial I will be diving into more Dart programming concepts and learning how to use open source Flutter packages. By the end of this app, I can use Flutter packages and building repeated widgets.
+
+## What I Created
+I made a music app that plays Xylophone sounds.This will let you unleash your musical talent where ever you are.
+
+## What I Learned
+* How to incorporate open source libraries of code into your project using Flutter Packages.
+* How to play sound on both iOS and Android.
+* How to generate repeated user interface Widgets.
+* How to use Dart functions that can take input arguments as well as return an output.
+* Dart arrow syntax for writing one line functions.
 
 ## Getting Started
 
